@@ -1,0 +1,16 @@
+[book]
+authors = ["Akashiya-Chime"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "UNGEE-Notebook"
+
+[output.html]
+git-repository-url = "https://github.com/Akashiya-Chime/Notebook-for-UNGEE"
+git-repository-icon = "fa-github"
+mathjax-support = true
+site-url = ""
+
+[output.html.fold]
+enable = true
+level = 0
