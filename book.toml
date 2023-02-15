@@ -9,7 +9,7 @@ title = "UNGEE-Notebook"
 git-repository-url = "https://github.com/Akashiya-Chime/Notebook-for-UNGEE"
 git-repository-icon = "fa-github"
 mathjax-support = true
-site-url = ""
+site-url = "https://akashiya-chime.github.io/Notebook-for-UNGEE/"
 
 [output.html.fold]
 enable = true
